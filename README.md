@@ -37,7 +37,7 @@ We worked on this data using Microsoft Excel out of the provided data visualizat
 ### Rahul's dashboard (mine):
 **RQ: how does gender affect the working and learning environments of people of generation Z in India?**
 
-![Example Image](images/1.png)
+![Example Image](1.png)
 
 ## Future work
 1) As we learn about the career aspirations and preferences of generation Z, we also must consider how companies are altering and transforming to meet these wishes of young employees. That is why, future work might include the analysis of dataset that covers this companies' transformation.​
